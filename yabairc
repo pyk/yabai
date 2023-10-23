@@ -9,4 +9,4 @@ yabai -m config right_padding 8
 yabai -m config window_gap 8
 
 # disable apps
-yabai -m rule --add app!="^iTerm2$" manage=off
+yabai -m rule --add app!="^Alacritty$" manage=off
