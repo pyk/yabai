@@ -6,6 +6,12 @@ Install yabai using the following command:
 brew install koekeishiya/formulae/yabai
 ```
 
+Setup `yabai` configurations:
+
+```sh
+git clone git@github.com:pyk/yabai.git ~/.config/yabai
+```
+
 then start the `yabai` service:
 
 ```sh
